@@ -1,0 +1,8 @@
+http://d-nb.info/standards/vocab/gnd/gnd-sc#14
+http://d-nb.info/standards/vocab/gnd/gnd-sc#14.1
+http://d-nb.info/standards/vocab/gnd/gnd-sc#14.2
+http://d-nb.info/standards/vocab/gnd/gnd-sc#14.3
+http://d-nb.info/standards/vocab/gnd/gnd-sc#14.4
+http://d-nb.info/standards/vocab/gnd/gnd-sc#14.4p
+http://d-nb.info/standards/vocab/gnd/gnd-sc#15.2p
+http://d-nb.info/standards/vocab/gnd/gnd-sc#17.4
